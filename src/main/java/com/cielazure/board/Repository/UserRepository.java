@@ -37,4 +37,5 @@ public class UserRepository  {
                 .setParameter("username", username)
                 .getResultList();
     }
+
 }
